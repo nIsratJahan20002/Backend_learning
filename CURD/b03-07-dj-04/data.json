@@ -1,0 +1,102 @@
+[
+    {
+        "model": "blogs.blog",
+        "pk": 1,
+        "fields": {
+            "title": "First Blog Post",
+            "content": "Welcome to our blog! This is the very first post.",
+            "created_at": "2025-02-27T20:00:00Z",
+            "updated_at": "2025-02-27T20:00:00Z"
+        }
+    },
+    {
+        "model": "blogs.blog",
+        "pk": 2,
+        "fields": {
+            "title": "Second Blog Post",
+            "content": "Here's some more interesting content for our second post.",
+            "created_at": "2025-02-27T21:00:00Z",
+            "updated_at": "2025-02-27T21:00:00Z"
+        }
+    },
+    {
+        "model": "blogs.blog",
+        "pk": 3,
+        "fields": {
+            "title": "Third Blog Post",
+            "content": "Continuing the journey with another engaging blog post.",
+            "created_at": "2025-02-27T22:00:00Z",
+            "updated_at": "2025-02-27T22:00:00Z"
+        }
+    },
+    {
+        "model": "blogs.blog",
+        "pk": 4,
+        "fields": {
+            "title": "Fourth Blog Post",
+            "content": "Exploring deeper insights in our fourth entry.",
+            "created_at": "2025-02-27T23:00:00Z",
+            "updated_at": "2025-02-27T23:00:00Z"
+        }
+    },
+    {
+        "model": "blogs.blog",
+        "pk": 5,
+        "fields": {
+            "title": "Fifth Blog Post",
+            "content": "Halfway through our blog series, here's some exciting updates.",
+            "created_at": "2025-02-28T00:00:00Z",
+            "updated_at": "2025-02-28T00:00:00Z"
+        }
+    },
+    {
+        "model": "blogs.blog",
+        "pk": 6,
+        "fields": {
+            "title": "Sixth Blog Post",
+            "content": "Diving into more interesting topics in this sixth post.",
+            "created_at": "2025-02-28T01:00:00Z",
+            "updated_at": "2025-02-28T01:00:00Z"
+        }
+    },
+    {
+        "model": "blogs.blog",
+        "pk": 7,
+        "fields": {
+            "title": "Seventh Blog Post",
+            "content": "The seventh post offers fresh perspectives and insights.",
+            "created_at": "2025-02-28T02:00:00Z",
+            "updated_at": "2025-02-28T02:00:00Z"
+        }
+    },
+    {
+        "model": "blogs.blog",
+        "pk": 8,
+        "fields": {
+            "title": "Eighth Blog Post",
+            "content": "Continuing the discussion in our eighth installment.",
+            "created_at": "2025-02-28T03:00:00Z",
+            "updated_at": "2025-02-28T03:00:00Z"
+        }
+    },
+    {
+        "model": "blogs.blog",
+        "pk": 9,
+        "fields": {
+            "title": "Ninth Blog Post",
+            "content": "Our ninth post dives into more advanced topics.",
+            "created_at": "2025-02-28T04:00:00Z",
+            "updated_at": "2025-02-28T04:00:00Z"
+        }
+    },
+    {
+        "model": "blogs.blog",
+        "pk": 10,
+        "fields": {
+            "title": "Tenth Blog Post",
+            "content": "Wrapping up our series with this tenth post.",
+            "created_at": "2025-02-28T05:00:00Z",
+            "updated_at": "2025-02-28T05:00:00Z"
+        }
+    }
+]

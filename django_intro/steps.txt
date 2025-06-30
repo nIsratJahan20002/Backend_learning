@@ -1,0 +1,9 @@
+pipenv shell
+pipenv install django
+django-admin startproject myproject
+code ./
+python manage.py runserver
+control + c to exit
+
+python manage.py startproject myapp
+//install app in myproject/setting.py installed app
